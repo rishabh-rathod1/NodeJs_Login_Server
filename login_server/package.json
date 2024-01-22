@@ -1,0 +1,21 @@
+{
+  "name": "login_server",
+  "version": "1.0.0",
+  "description": "Login Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MedX",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.0",
+    "nodemailer": "^6.9.8",
+    "nodemon": "^3.0.3",
+    "uuid": "^9.0.1"
+  }
+}
